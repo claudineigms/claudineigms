@@ -1,5 +1,5 @@
 ## Olá meu caro, seja bem vindo!👋
-- 🔭 Atualmente estou trabalhando como anaista financeiro
+- 🔭 Atualmente estou trabalhando como analista financeiro
 - 🌱 Estudando CSharp
 
 <div align="center">
