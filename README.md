@@ -1,6 +1,5 @@
 ## Olá meu caro, seja bem vindo!👋
-- 🔭 Atualmente estou trabalhando como Desenvolvedor de automações python
-- 🌱 Cursando Análise e desenvolvimento de sistemas
+- 🔭 Pythom RPA / Backend developer
 
 <div align="center">
   <a href="https://github.com/claudineigms">
