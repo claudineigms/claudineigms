@@ -1,5 +1,5 @@
 ## Olá meu caro, seja bem vindo!👋
-- RPA|Backend Pythom developer
+- RPA|Backend Python developer
 
 <div align="center">
   <a href="https://github.com/claudineigms">
